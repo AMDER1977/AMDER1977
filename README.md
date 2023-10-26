@@ -8,7 +8,7 @@ Como FullStack Developer y Licenciado en Educación, estoy en una constante bús
 
 ## ¡Un Viaje Fascinante!
 
-Hace unos años, la curiosidad me llevó a explorar y decidí adentrarme en el fascinante mundo del desarrollo web por cuenta propia. Desde entonces, mi trayecto ha sido cautivador, explorando Java, HTML, CSS y más. A principios de 2023, tomé una decisión clave: sumergirme por completo en el camino de ser FullStack Developer a través de SoyHenry Bootcamp.
+Hace unos años, mientras laboraba como coordinador de logística para una empresa de Internet, observé que los sistemas de gestión e inventario con los que trabajaba presentaban algunos bugs y sin tener idea de código o lenguajes de programación me interesé en saber porque sucedían y si había alguna forma de solucionarlo; la curiosidad me llevó a explorar y decidí adentrarme en el fascinante mundo del desarrollo web por cuenta propia. Desde entonces, mi trayecto ha sido cautivador, explorando Java, HTML, CSS y más. A principios de 2023, tomé una decisión clave: sumergirme por completo en el camino de ser FullStack Developer a través de SoyHenry Bootcamp.
 
 ## Donde la Pasión se Convierte en Código
 
