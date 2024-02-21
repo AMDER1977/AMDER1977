@@ -4,11 +4,11 @@
 </div>
 
 # ¡Hola! Soy Amderson Hernandez, FullStack Developer.
-Como FullStack Developer y Licenciado en Educación, estoy en una constante búsqueda de conocimiento y crecimiento en el mundo del desarrollo web.
+Como FullStack Developer, estoy en una constante búsqueda de conocimiento y crecimiento en el mundo del desarrollo web. Mi background en Educación me ha servido para interiorizar los conocimientos y a su vez poder aplicarlos diariamente.
 
 ## ¡Un Viaje Fascinante!
 
-Hace unos años, mientras laboraba como coordinador de logística para una empresa de Internet, observé que los sistemas de gestión e inventario con los que trabajaba presentaban algunos bugs y sin tener idea de código o lenguajes de programación me interesé en saber porque sucedían y si había alguna forma de solucionarlo; la curiosidad me llevó a explorar y decidí adentrarme en el fascinante mundo del desarrollo web por cuenta propia. Desde entonces, mi trayecto ha sido motivador, explorando Java, HTML, CSS y más. A principios de 2023, tomé una decisión clave: sumergirme por completo en el camino de ser FullStack Developer a través de SoyHenry Bootcamp.
+Hace unos años, mientras laboraba como coordinador de logística para una empresa de Internet, observé que los sistemas de gestión e inventario con los que trabajaba presentaban algunos bugs y aunque no tenía idea de código o lenguajes de programación, eso me causó interés en saber la causa y a su vez, conocer si exitía alguna forma de solucionarlo; la curiosidad me llevó a explorar y así me fuí interesando cada vez más en la programación y el Desarrollo; y fue así como decidí adentrarme en este fascinante mundo del por cuenta propia. Desde entonces, mi trayecto ha sido motivador, explorando al principio algunas tecnologías como Java, HTML, CSS y más. Pero lo mejor fue a principios de 2023, cuando tomé una decisión clave: sumergirme por completo en el camino de ser FullStack Developer a través de SoyHenry Bootcamp.
 
 ## Donde la Pasión se Convierte en Código
 
